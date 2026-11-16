@@ -1,4 +1,4 @@
-# Merhaba, F. CEYRAN 👋
+# F. CEYRAN 👋
 
 💻 **Yazılım geliştiriciyim** — kurumsal web siteleri, özel yönetim panelleri, algoritma ve **mobil uygulama** geliştirme üzerine çalışıyorum.
 
