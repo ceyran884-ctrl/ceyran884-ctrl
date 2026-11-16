@@ -1,12 +1,13 @@
 # Merhaba, Ben F. CEYRAN 👋
 
-💻 **Yazılım geliştiriciyim** — kurumsal web siteleri, özel yönetim panelleri ve algoritma geliştirme üzerine çalışıyorum.
+💻 **Yazılım geliştiriciyim** — kurumsal web siteleri, özel yönetim panelleri, algoritma ve **mobil uygulama** geliştirme üzerine çalışıyorum.
 
 ## 💼 Ne yapıyorum?
 
 - 🌐 **Web sitesi geliştirme** — modern, hızlı ve panelden yönetilebilir kurumsal siteler
 - ⚙️ **Özel yönetim panelleri** — müşterilerim içeriklerini kod bilgisi olmadan canlı yönetir
 - 🧮 **Algoritma geliştirme** — veri işleme, otomasyon ve optimizasyon çözümleri
+- 📱 **Mobil uygulama geliştirme** — Dart & Flutter ile iOS + Android (tek kod tabanı)
 - 📈 SEO altyapısı, performans optimizasyonu ve otomatik yükleme sistemleri
 
 ## 🚀 Örnek Projem
@@ -20,7 +21,7 @@
 
 ## 🧰 Kullandığım teknolojiler
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Firebase (Firestore/Auth)` `Cloudinary` `Node.js` `Python`
+`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Firebase (Firestore/Auth)` `Cloudinary` `Node.js` `Python` `Dart` `Flutter`
 
 ## 📫 Bana ulaşın
 
