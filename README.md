@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba, Ben F. CEYRAN 👋
 
-<!--
-**ceyran884-ctrl/ceyran884-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ **KARE YAPI İNŞAAT** kurucusuyum — İstanbul Küçükçekmece\'de modern, güvenli ve estetik konut projeleri üretiyoruz.
 
-Here are some ideas to get you started:
+## 💼 Ne yapıyorum?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 **KARE YAPI İNŞAAT** — anahtar teslim konut projeleri
+- 🏗️ Deprem güvenliğinden estetiğe taviz vermeyen inşaat anlayışı
+- 🤝 Çözüm ortakları ağıyla uçtan uca profesyonel yönetim
+
+## 🌐 Dijital taraf
+
+- Şirket web sitemi **kendim yönetiyorum** — içerikler, katalog, videolar, galeri tümü özel panelimden güncelleniyor
+- ⚙️ Yönetim paneli geliştirme ve dijital varlık yönetimiyle yakından ilgileniyorum
+
+## 🔗 Bana ulaşın
+
+- 🌍 **Web sitemiz:** [kareyapi-insaat.com](https://kareyapi-insaat.com)
+- 📖 **E-Katalog:** [Online Katalog](https://kareyapi-insaat.com/catalog)
+- 🎬 **Projelerimizin videoları:** [/videolar](https://kareyapi-insaat.com/videolar)
+
+---
+
+> *"Yapı sadece beton ve demir değildir; içinde mutlulukların yeşereceği güvenli yaşam alanlarıdır."*
+
+🏗️ *KARE YAPI — Geleceğin yapılarını bugünden inşa ediyoruz.*
